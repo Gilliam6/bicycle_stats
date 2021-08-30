@@ -1,0 +1,37 @@
+1. Elevation
+    Compare with maps or data from watches
+2. Speed
+    Speed sensor
+    GPS tracking
+3. Distance
+    GPS tracking
+4. Heart Rate
+    HR sensor data
+    HR Zones
+    Avg HR
+    Max HR
+5. Temperature and weather
+    Only with watches
+6. Calories
+    Depends on HR or base calculation on athletic's fit
+7. Cadence
+    Base on Cadence sensor data
+8. Training Effects
+    Base on HR data Calculating with personal fit and efforts
+9. Timing
+    Elapsed time
+    Moving time
+10. Equipment
+    Whole distance
+    Elapsed time
+11. All time stats
+    Average pace
+    Average power
+    Average Speed
+    FTP
+    Max HR
+    Total activity time
+    Total distance yearly
+    VO2 max
+12. Heart rate Stress test
+    Base on HR data check variability of Heart
